@@ -1,5 +1,5 @@
 # D_FLIPFLOP
-#AIM:
+# AIM:
 To simulate and synthesis of D_flipflop using vivado 2023.2
 # Components Required
 Vivado 2023.2
